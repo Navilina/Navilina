@@ -9,7 +9,7 @@ I am Navilina, system support engineer and passionate about learning something n
 - 🌱 I’m currently learning cloud computing
 - 📫 How to reach me: mnavilina@gmail.com
 - 😄 Pronouns: She /Her /hers
-- ⚡ Fun fact: I love Octopus 
+- ⚡ Fun fact: I like cycling  
 
 
 
