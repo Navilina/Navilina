@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Navilina, system support engineer and passionate about learning something new everyday.
+
 <!--
 **Navilina/Navilina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
