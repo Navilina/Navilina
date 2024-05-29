@@ -10,7 +10,7 @@ I am Navilina, system support engineer and passionate about learning something n
 - 📫 How to reach me: mnavilina@gmail.com
 - 😄 Pronouns: She /Her /hers
 - ⚡ Fun fact: I love Octopus 
-- AWS Cerified Solutions Architect - SAA C03
+
 
 
 
