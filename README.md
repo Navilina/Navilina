@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 ![github-header-image](https://github.com/Navilina/Navilina/assets/136193317/d1b02774-7ad8-4b23-a80f-74d1293ecc80)
 
-![Header](./your-header-image-name.png)
+
