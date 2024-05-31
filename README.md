@@ -12,5 +12,9 @@ I am Navilina, system support engineer and passionate about learning something n
 - ⚡ Fun fact: I like cycling  
 
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+
+
 
 
