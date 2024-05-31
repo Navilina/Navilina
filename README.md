@@ -9,7 +9,7 @@ I am Navilina, system support engineer and passionate about learning something n
 - 🌱 I’m open to collaborating on interesting projects
 - 📫 How to reach me: mnavilina@gmail.com
 - 😄 Pronouns: She /Her /hers
-- ⚡ Fun fact: I'm a part-time super women  
+- ⚡ Fun fact: I'm a part-time super women  :heart_eyes:
 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
