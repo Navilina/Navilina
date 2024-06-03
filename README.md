@@ -25,8 +25,6 @@ I am Navilina, system support engineer and passionate about learning something n
 
 ![Navilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navilina&show_icons=true) 
 
-![Navilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navilina&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 
 
 <picture>
