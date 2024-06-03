@@ -6,9 +6,13 @@
 I am Navilina, system support engineer and passionate about learning something new everyday.
 
 - 🔭 I’m currently working on something cool
+  
 - 🌱 I’m open to collaborating on interesting projects
+  
 - 📫 How to reach me: mnavilina@gmail.com
+  
 - 😄 Pronouns: She /Her /hers
+
 - ⚡ Fun fact: I'm a part-time super women  :heart_eyes:
 
 
