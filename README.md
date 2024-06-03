@@ -23,8 +23,8 @@ I am Navilina, system support engineer and passionate about learning something n
 
 
 
+![Navilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navilina&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navilina&layout=compact)
 
 
 <picture>
